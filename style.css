@@ -140,6 +140,7 @@ address {
   z-index: 9999;
   font-size: 15px;
   color: #757575;
+ 
 }
 #header .bottom .submenu li {
   height: 50px;
@@ -157,6 +158,7 @@ address {
   z-index: 5;
   background: rgba(255, 255, 255, 1);
   border-top: 1px solid rgba(0, 0, 0, 0.1);
+  display: none;
 }
 
 #header:hover {
